@@ -2,9 +2,9 @@
   --cinza: #8b22a5;
   --vermelha: #d11f78;
   --vermelha-escura: #000000;
-  --branca: #23003f;
+  --branca: rgba(184, 98, 255, 0.863);
   --luz: rgba(221, 0, 29, 0.521);
-}
+}  
 
 body {
   align-items: center;
